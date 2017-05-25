@@ -1,11 +1,11 @@
-package creating_observables;
+package transforming_observables;
 
 import io.reactivex.Flowable;
 import io.reactivex.functions.Consumer;
 import io.reactivex.functions.Function;
 
 /**
- * Description：TODO
+ * Description：map 数据类型转换
  * Create Time：2017/5/24 13:01
  * Author:KingJA
  * Email:kingjavip@gmail.com

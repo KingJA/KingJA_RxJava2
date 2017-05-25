@@ -1,7 +1,7 @@
-package creating_observables;
+package transforming_observables;
 
 /**
- * Description：TODO
+ * Description：flatMap ，将一个observable转变成多个observable
  * Create Time：2017/5/24 13:08
  * Author:KingJA
  * Email:kingjavip@gmail.com
