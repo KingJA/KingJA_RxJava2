@@ -1,4 +1,4 @@
-package creating_observables;
+package creating;
 
 import io.reactivex.Flowable;
 import io.reactivex.functions.Consumer;

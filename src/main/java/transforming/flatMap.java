@@ -1,7 +1,7 @@
-package transforming_observables;
+package transforming;
 
 /**
- * Description：flatMap ，将一个observable转变成多个observable
+ * Description：flatMap ，将一个observable转变成多个observable，输出结构是无序，concatMap一样功能，输出结果是有序。
  * Create Time：2017/5/24 13:08
  * Author:KingJA
  * Email:kingjavip@gmail.com

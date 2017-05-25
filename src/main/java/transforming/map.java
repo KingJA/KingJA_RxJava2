@@ -1,4 +1,4 @@
-package transforming_observables;
+package transforming;
 
 import io.reactivex.Flowable;
 import io.reactivex.functions.Consumer;
